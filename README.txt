@@ -108,3 +108,7 @@ screenshots/
 #Conclusion
 This project demonstrates how semantic embeddings and clustering techniques can be used to group related queries and expose the functionality through a production-style API.
 The integration of model training, visualization, and API deployment illustrates a practical workflow for building ML-powered backend services.
+
+
+#loom video
+https://www.loom.com/share/375fe662619b4343ba653f9d393a295e?t=494
